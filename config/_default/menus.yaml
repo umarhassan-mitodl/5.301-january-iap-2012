@@ -1,0 +1,58 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 40c09e61-eca8-89ea-dbda-8548c8281d7c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f7d153ed-bc7e-6d36-6b57-12f31e017e9c
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: a6c152f7-284b-2e66-4f68-ecbd851a6bc6
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
+  name: Labs
+  pageRef: /pages/labs/
+  weight: 40
+- identifier: c59302c1-e1f3-95fb-d6d8-3dea9eff1473
+  name: Transfer and Manipulation
+  pageRef: /pages/labs/transfer-and-manipulation
+  parent: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
+  weight: 50
+- identifier: 8ddf76b7-df22-5ab5-9416-ef7e01ee46cb
+  name: Acids, Bases & In Between
+  pageRef: /pages/labs/acids-bases-in-between
+  parent: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
+  weight: 60
+- identifier: 58b2c136-ec0b-4a6d-48f1-dd5ebd62cc8e
+  name: Recrystallization and Single Crystal
+  pageRef: /pages/labs/recrystallization-and-single-crystal
+  parent: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
+  weight: 70
+- identifier: 0c7c8722-9ff3-1fc3-5a0c-3cf42fb54cc4
+  name: Distillation
+  pageRef: /pages/labs/distillation
+  parent: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
+  weight: 80
+- identifier: c6f62d9c-9821-b626-fa9e-e0c89539617a
+  name: Column Chromatography
+  pageRef: /pages/labs/column-chromatography
+  parent: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
+  weight: 90
+- identifier: f188885a-5b59-0b88-0391-28a6b6495dee
+  name: Biochemistry
+  pageRef: /pages/labs/biochemistry
+  parent: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
+  weight: 100
+- identifier: 522c2d2c-6509-eaa8-e39a-b9a4c599c18b
+  name: Original Research Project
+  pageRef: /pages/labs/original-research-project
+  parent: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
+  weight: 110
+- identifier: 2b2835f7-837d-4adf-3472-70c8e945778c
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 120
