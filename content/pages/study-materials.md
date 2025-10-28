@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains links to instructional videos for laboratory techniques.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -21,7 +19,7 @@ The experiments described in these materials are potentially hazardous and requi
 
 The "Digital Lab Techniques Manual" is a series of videos designed to help you prepare for your chemistry laboratory class. Each video provides a detailed demonstration of a common laboratory technique, as well as helpful tips and information. These videos are meant to supplement, and not replace, your lab manual and assigned reading. In fact, you will most benefit from watching the videos if you have already read the appropriate background information. To be a great experimentalist, you must understand both theory and technique! If you have questions about what you see, make sure to ask your TA or your instructor. The full "[Digital Lab Techniques Manual](/courses/res-5-0001-digital-lab-techniques-manual-spring-2007)" is available in our [Supplemental Resources](./resolveuid/461f831cc670b59848f89b47033975ef) section under Chemistry.
 
-These files are also available on [YouTube](http://youtube.com/view_play_list?p=B208D0FA80AD438F).
+These files are also available on {{% resource_link "b40ee9f9-8246-4949-87cd-889b07934a9f" "YouTube" %}}.
 
 Note: In 5.301, videos 3, 5, 6, 9, and 10 are used.
 
