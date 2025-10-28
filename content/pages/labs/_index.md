@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains instructions for the lab experiments in the course,
   as well as technique guides, instrument operation instructions, and readings.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection

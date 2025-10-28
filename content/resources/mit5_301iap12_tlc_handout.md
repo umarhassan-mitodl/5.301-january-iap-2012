@@ -4,8 +4,6 @@ description: This resource contains information related to TLC handout.
 file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/a24e004fcf5430a16b2a7eb36ac4df40_MIT5_301IAP12_TLC_Handout.pdf
 file_size: 105957
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

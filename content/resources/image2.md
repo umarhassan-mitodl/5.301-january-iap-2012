@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/17e4ad24b8c7c0b3b1ad94a647ff4f24_image2.jpg
 file_size: 35975
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

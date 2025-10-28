@@ -4,8 +4,6 @@ description: This resource contains information related to ms operation guide.
 file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/cfa8f5bf697ccb944c944ef20a90e155_MIT5_301IAP12_MS_Op_Guide.pdf
 file_size: 633411
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains information regarding GC handout.
 file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/1d503dbf1858946543d07fb72de08371_MIT5_301IAP12_GC_Handout.pdf
 file_size: 677494
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
