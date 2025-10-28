@@ -64,8 +64,8 @@ _Below, Dr. John Dolhun describes various aspects of teaching_ 5.301 Chemistry L
 
 ### Prerequisites
 
-- [Chemistry GIR](http://chemistry.mit.edu/freshmen-pre-freshmen/chemistry-general-institute-requirements) ![](/images/educator/icon-question-gir.png)
-- [Permission of instructor via application process](https://chemistry.mit.edu/academic-programs/undergraduate-programs/first-year-students/5-301/)
+- {{% resource_link "f55547e2-bac0-433a-9c5f-ace7db4834d6" "Chemistry GIR" %}} ![](/images/educator/icon-question-gir.png)
+- {{% resource_link "567f97ec-9193-43b8-ac3e-2a4f62981cb5" "Permission of instructor via application process" %}}
 
 ### Requirements Satisfied
 
